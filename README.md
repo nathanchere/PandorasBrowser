@@ -1,5 +1,7 @@
 # Pandora's Browser
 
+NOTE: Links long since dead and code removed for legal reasons.
+
 Old project imported from my personal SVN server to Google Code. No longer supported - feel free to take it and make something crazy.
 
 Intended to mess with open WiFi hotspots at cafes etc. Could also be fun to leave running at work to catch out employers monitoring what everyone is doing but use at your own risk.
